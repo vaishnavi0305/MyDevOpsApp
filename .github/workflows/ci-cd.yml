@@ -45,4 +45,4 @@ jobs:
         run: |
           docker build -t mydevopsapp:latest
           docker tag mydevopsapp:latest vaishnavi453/mydevopsapp:latest
-        docker push vaishnavi453/mydevopsapp:latest
+          docker push vaishnavi453/mydevopsapp:latest
